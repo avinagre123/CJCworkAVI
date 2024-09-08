@@ -10,6 +10,7 @@ public class SpringbootrestapicrudappProductSupplierApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootrestapicrudappProductSupplierApplication.class, args);
+		System.out.println("Hello avi this is first change");
 	
 
 	}
